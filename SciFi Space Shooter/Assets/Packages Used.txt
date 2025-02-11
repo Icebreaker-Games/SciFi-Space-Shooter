@@ -1,6 +1,9 @@
 Samuel Larson Packages
+Archanor VFX - Sci-Fi Arsenal
+Carlos Wilkes - Space Graphics Planets
 Catsoft Works - Game Creator 2
 Catsoft Works - Stats 2 | Game Creator 2
+FORGE3D - Sci-Fi Effects
 Gamemaster Audio - Pro Sound Collection
 Hutong Games LLC - Playmaker
 SineVFX - Galaxy Materials (Skybox Update)

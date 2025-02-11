@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: Hidden/SgtShadowLayer
   target: {fileID: 4800000, guid: 48a5bbe055d725a4ebce6b5ef52b4f05, type: 3}
-  variantHash: 193091917
-  projectHash: -284236704
+  variantHash: -529526638
+  projectHash: -2034827088
   variants:
   - Pipe: 0
     Code: "//<HASH>193091917</HASH>\n////////////////////////////////////////\n//

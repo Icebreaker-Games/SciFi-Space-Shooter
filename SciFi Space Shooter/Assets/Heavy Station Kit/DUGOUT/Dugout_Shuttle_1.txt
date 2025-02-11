@@ -1,0 +1,37 @@
+-------------
+DOCUMENTATION - https://dotteam.xyz/pdf/Heavy_Station_Kit_2022.pdf
+------------- 
+
+HEAVY STATION SET
+
+------------------------------------
+D U G O U T  S H U T T L E - 1   2.7
+------------------------------------
+
+- Re-Submitted using Unity 2022.3 LTS;
+- Updated DotAnimatedTexture.cs with support for HDRP and URP;
+- Updated DotFPCElevator2ConControlItems.cs;
+- Updated DotHskGate.cs.
+- Added transparent glass for Windows and Portholes.
+
+------------------------------------
+D U G O U T  S H U T T L E - 1   2.0
+------------------------------------
+
+- Introduced AAA techniques regarding visuals;
+- Rebaked lighting;
+- Remade marketing materials to better convey emotion and do justice to the asset overall.
+
+------------------------------------
+D U G O U T  S H U T T L E - 1   1.1
+------------------------------------
+
+- Updated Sounds. All sounds are brand new;
+- Replaced Sky;
+- Fixed some Textures and Meshes;
+- Reorganized Content to meet Asset Store Specifications.
+
+
+
+https://dotteam.xyz
+info@dotteam.xyz

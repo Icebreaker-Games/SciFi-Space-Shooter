@@ -1,0 +1,27 @@
+﻿-------------
+DOCUMENTATION - https://dotteam.xyz/pdf/Heavy_Station_Kit_2022.pdf
+------------- 
+
+
+HEAVY STATION dugout SET
+
+---------------------
+SPACE STATION 1   2.7
+---------------------
+
+- Re-Submitted using Unity 2022.3 LTS;
+- Updated DotAnimatedTexture.cs with support for HDRP and URP;
+- Updated DotFPCElevator2ConControlItems.cs;
+- Updated DotHskGate.cs.
+- Added transparent glass for Windows and Portholes.
+
+---------------------
+SPACE STATION 1   1.0
+---------------------
+
+- Re-Submitted using Unity 2021.3 LTS.
+
+
+
+https://dotteam.xyz
+info@dotteam.xyz

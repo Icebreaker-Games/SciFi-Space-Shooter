@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 986c297e3c28b2443bc9b139c24a171b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208209
+  packageName: Sci-Fi Heavy Station Set SPACE STATION-1
+  packageVersion: 2.7
+  assetPath: Assets/Heavy Station Kit/DUGOUT/Scenes/SPACE STATIONS/SpaceStation 1/SpaceStation_1/OcclusionCullingData.asset
+  uploadId: 605074

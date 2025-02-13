@@ -10,7 +10,6 @@ using Photon.Pun;
 
 namespace IBG
 {
-    //public Photon.Realtime.RoomOptions roomOptions = new Photon.Realtime.RoomOptions();
     public class CreateAndJoinRooms : MonoBehaviourPunCallbacks
     {
         public TMP_InputField createInput;

@@ -9,16 +9,16 @@ EditorBuildSettings:
     path: Assets/OutdoorsScene.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
   - enabled: 1
-    path: Assets/Scenes/Steamworks Initialization.unity
+    path: Assets/Scenes/Steam Matchmaking.unity
     guid: fc373c161aefdd84ebd4544ccddf81b3
   - enabled: 1
-    path: Assets/Scenes/Photon Connection.unity
+    path: Assets/Scenes/Networking With Photon/Photon Connection.unity
     guid: 53278c0883484454d8e6ed01de668f63
   - enabled: 1
-    path: Assets/Scenes/Networking Test.unity
+    path: Assets/Scenes/Networking With Photon/Networking Test.unity
     guid: 6f42040406e26134f9bbf7fe9b00bb6f
   - enabled: 1
-    path: Assets/Scenes/Room Connection.unity
+    path: Assets/Scenes/Networking With Photon/Room Connection.unity
     guid: 069a80fa308fb2d4eb0a289a637b28db
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
